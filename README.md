@@ -1,7 +1,7 @@
 # 🎯 Portfolio - Afrin Akter Mim  
 
-![Image](https://github.com/user-attachments/assets/16497cd2-4112-42d7-9749-f15398f9acf7)
- 
+ ![Image](https://github.com/user-attachments/assets/915402fa-1133-424a-80a0-7b2fbf83ace9)
+
 
 ## 🔬 Optimizing Cervical Cancer Prediction: Harnessing the Power of Machine Learning for Early Diagnosis  
 ### 📌 Summary  
